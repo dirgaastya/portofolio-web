@@ -6,7 +6,6 @@ export default function App() {
         <Container>
             <Hero />
             <About />
-            <About />
         </Container>
     );
 }
